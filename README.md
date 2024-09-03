@@ -51,7 +51,7 @@ The script generates two plots:
 
 ## Example Results Output
 
-Best Distance: 123.45
+Best Distance: 365.7
 Here is an example of the results from the simulation:
 
 ![Result](results.png)
